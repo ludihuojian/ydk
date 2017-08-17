@@ -13,7 +13,7 @@ import java.util.Properties;
 import org.junit.Test;
 /*
  * 配置文件，用于存放一些系统的配置信息，如：调用的webservice地址、
- * 公共变量、数据库连接串等，便于系统升级维护！
+ * 公共变量、数据库连接串等，便于系统升级维护！！！！！！！！！！！！！！
  */
 public class TestProperties2 {
 	private String param1;
